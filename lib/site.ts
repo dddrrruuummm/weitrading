@@ -3,8 +3,6 @@ export const site = {
   legalName: "Wei trading LLC",
   url: "https://weitradingllc.com",
   email: "info@weitradingllc.com",
-  phone: "+1 (909) 555-0186",
-  phoneHref: "+19095550186",
   whatsapp: "+19095550186",
   address: {
     street: "1053 Hollowell St",

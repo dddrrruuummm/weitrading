@@ -1,5 +1,1 @@
-import { ContactSection, Hero, MaterialIndex, ProductWall, SupplyRoute } from "@/components/sections";
-
-export default function HomePage() {
-  return <><Hero /><MaterialIndex /><SupplyRoute /><ProductWall /><ContactSection /></>;
-}
+import{IndustryHome}from"@/components/industry-home";export default function Page(){return <IndustryHome/>}

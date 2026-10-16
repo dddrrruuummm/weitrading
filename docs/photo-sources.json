@@ -1,0 +1,106 @@
+[
+  {
+    "file": "public/photos/pipework.webp",
+    "source": "https://www.pexels.com/photo/7937300/",
+    "download": "https://images.pexels.com/photos/7937300/pexels-photo-7937300.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Category/editorial scene, not company facilities, team, completed work, or verified inventory."
+  },
+  {
+    "file": "public/photos/flow-detail.webp",
+    "source": "https://www.pexels.com/photo/586019/",
+    "download": "https://images.pexels.com/photos/586019/pexels-photo-586019.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Category/editorial scene, not company facilities, team, completed work, or verified inventory."
+  },
+  {
+    "file": "public/gallery/fittings.webp",
+    "title": "Connection fittings",
+    "source": "https://www.pexels.com/photo/plumbing-fittings-28178448/",
+    "download": "https://images.pexels.com/photos/28178448/pexels-photo-28178448.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "A close view of a threaded brass elbow."
+  },
+  {
+    "file": "public/gallery/valve-assembly.webp",
+    "title": "Valve assemblies",
+    "source": "https://www.pexels.com/photo/industrial-pipe-with-pressure-gauge-and-valve-close-up-36786758/",
+    "download": "https://images.pexels.com/photos/36786758/pexels-photo-36786758.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "Pipework and isolation points considered as a system."
+  },
+  {
+    "file": "public/gallery/large-pipe.webp",
+    "title": "Large-bore flow control",
+    "source": "https://www.pexels.com/photo/valve-on-large-black-pipe-13726337/",
+    "download": "https://images.pexels.com/photos/13726337/pexels-photo-13726337.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "A valve and pipe interface at a larger scale."
+  },
+  {
+    "file": "public/gallery/water-meter.webp",
+    "title": "Water measurement",
+    "source": "https://www.pexels.com/photo/close-up-of-water-meter-4494653/",
+    "download": "https://images.pexels.com/photos/4494653/pexels-photo-4494653.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "Metering and connections within a water installation."
+  },
+  {
+    "file": "public/gallery/industrial-pipes.webp",
+    "title": "Coordinated pipework",
+    "source": "https://www.pexels.com/photo/close-up-shot-of-pipes-5658852/",
+    "download": "https://images.pexels.com/photos/5658852/pexels-photo-5658852.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "An installed arrangement of pipe runs and joining hardware."
+  },
+  {
+    "file": "public/gallery/field-sprinkler.webp",
+    "title": "Field irrigation",
+    "source": "https://www.pexels.com/photo/a-focus-of-a-sprinkler-connected-to-a-pipe-next-to-a-corn-field-10041326/",
+    "download": "https://images.pexels.com/photos/10041326/pexels-photo-10041326.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "A sprinkler assembly connected to its supply line."
+  },
+  {
+    "file": "public/gallery/irrigation-lines.webp",
+    "title": "Water distribution",
+    "source": "https://www.pexels.com/photo/efficient-sprinkler-irrigation-in-lush-green-farm-31231189/",
+    "download": "https://images.pexels.com/photos/31231189/pexels-photo-31231189.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "Field delivery and the relationship between coverage and flow."
+  },
+  {
+    "file": "public/gallery/water-pump.webp",
+    "title": "Pump & transfer systems",
+    "source": "https://www.pexels.com/photo/diesel-water-pump-in-the-farm-28240873/",
+    "download": "https://images.pexels.com/photos/28240873/pexels-photo-28240873.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "license": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-16",
+    "use": "Editorial category demonstration. Not claimed company products, stock, staff, or completed projects.",
+    "generation": "none; real source photography",
+    "subject": "A water pump in an agricultural supply application."
+  }
+]
