@@ -1,3 +1,5 @@
+import { productImages } from "./product-images";
+
 export const site = {
   name: "WEI TRADING",
   legalName: "Wei trading LLC",
@@ -102,6 +104,7 @@ export const products = [
     description: "Consolidated sourcing, mixed-category orders, and scheduled fulfillment for repeat commercial demand.",
     tags: ["Import", "Consolidate", "Fulfill"],
   },
+  ...productImages,
 ] as const;
 
 export const services = [
